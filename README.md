@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning Next.js and Nest.js
 
 <div align="center">
   <a href="https://github.com/TeodoroRaulino">
