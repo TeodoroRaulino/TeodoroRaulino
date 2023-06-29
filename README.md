@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Next.js and Nest.js
+- 🌱 Currently, I'm a frontend developer experienced in Next.js, Expo.js, and React.
 
 <div align="center">
   <a href="https://github.com/TeodoroRaulino">
