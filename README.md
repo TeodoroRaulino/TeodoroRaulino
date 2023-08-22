@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Currently, I'm a frontend developer experienced in Next.js, Expo.js, and React.
+- 🌱 Currently, I'm a fullstack developer experienced in Next.js, Expo.js, .NET and Ruby on Rails.
 
 <div align="center">
   <a href="https://github.com/TeodoroRaulino">
